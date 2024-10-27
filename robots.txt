@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eheceetu.github.io/sitemap_index.eheceetu
